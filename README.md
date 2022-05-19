@@ -1,2 +1,2 @@
-# Teste-Web-Python-com-BDD
+# Teste-Web-c#-com-BDD
 Automatização web do site Submarino com Python e Cucumber
